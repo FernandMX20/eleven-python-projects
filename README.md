@@ -18,4 +18,8 @@ Programs finished so far
    Ask the user what's on their mind. Then after the user responds, 
     count the number of words in the sentence and print that as an output.
 
-4. 
+4. Biography info
+   Ask a user for their personal information one question at a time. Then check that the information they entered is valid. Finally, print a summary of all the information they entered back to them.
+
+5. What's my acronym?
+   Ask the user to enter the full meaning of an organization or concept and you'll provide the acronym to the user.
